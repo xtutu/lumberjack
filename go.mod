@@ -1,3 +1,3 @@
-module github.com/xtutu/lumberjack.v2
+module github.com/xtutu/lumberjack
 
 go 1.13
